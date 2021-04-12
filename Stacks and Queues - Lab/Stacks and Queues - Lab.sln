@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stacks and Queues - Lab", "Stacks and Queues - Lab\Stacks and Queues - Lab.csproj", "{8D4DD718-75D2-426A-B216-9B94F8F945CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stacks and Queues - Lab", "Stacks and Queues - Lab\Stacks and Queues - Lab.csproj", "{8D4DD718-75D2-426A-B216-9B94F8F945CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Stack Sum", "2. Stack Sum\2. Stack Sum.csproj", "{91A1416D-454F-4E24-9D3D-0CBEA232EFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Simple Calculator", "3. Simple Calculator\3. Simple Calculator.csproj", "{29D654F8-48ED-4D74-9C90-4BB82496CD8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Matching Brackets", "4. Matching Brackets\4. Matching Brackets.csproj", "{FACF3E24-31BE-4E0F-823D-7F9F95BF2597}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Print Even Numbers", "5. Print Even Numbers\5. Print Even Numbers.csproj", "{80153392-D1B5-4127-B88B-FBC8F74EE9E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Supermarket", "6. Supermarket\6. Supermarket.csproj", "{141B1CC7-4D74-423F-B880-94DCC2524E25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{8D4DD718-75D2-426A-B216-9B94F8F945CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4DD718-75D2-426A-B216-9B94F8F945CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4DD718-75D2-426A-B216-9B94F8F945CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A1416D-454F-4E24-9D3D-0CBEA232EFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A1416D-454F-4E24-9D3D-0CBEA232EFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A1416D-454F-4E24-9D3D-0CBEA232EFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A1416D-454F-4E24-9D3D-0CBEA232EFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D654F8-48ED-4D74-9C90-4BB82496CD8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D654F8-48ED-4D74-9C90-4BB82496CD8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D654F8-48ED-4D74-9C90-4BB82496CD8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D654F8-48ED-4D74-9C90-4BB82496CD8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACF3E24-31BE-4E0F-823D-7F9F95BF2597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACF3E24-31BE-4E0F-823D-7F9F95BF2597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACF3E24-31BE-4E0F-823D-7F9F95BF2597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACF3E24-31BE-4E0F-823D-7F9F95BF2597}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80153392-D1B5-4127-B88B-FBC8F74EE9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80153392-D1B5-4127-B88B-FBC8F74EE9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80153392-D1B5-4127-B88B-FBC8F74EE9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80153392-D1B5-4127-B88B-FBC8F74EE9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{141B1CC7-4D74-423F-B880-94DCC2524E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141B1CC7-4D74-423F-B880-94DCC2524E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141B1CC7-4D74-423F-B880-94DCC2524E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141B1CC7-4D74-423F-B880-94DCC2524E25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
