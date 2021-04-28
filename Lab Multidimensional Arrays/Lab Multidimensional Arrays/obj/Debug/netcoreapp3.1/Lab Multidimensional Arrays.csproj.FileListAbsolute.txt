@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.exe
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.deps.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.dll
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\bin\Debug\netcoreapp3.1\Lab Multidimensional Arrays.pdb
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.dll
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.pdb
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\Lab Multidimensional Arrays\obj\Debug\netcoreapp3.1\Lab Multidimensional Arrays.genruntimeconfig.cache

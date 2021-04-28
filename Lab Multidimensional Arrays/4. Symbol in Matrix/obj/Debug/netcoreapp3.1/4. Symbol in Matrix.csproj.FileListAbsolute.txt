@@ -1,0 +1,12 @@
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+D:\SoftUni\Advanced-C#\Lab Multidimensional Arrays\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache
