@@ -1,0 +1,13 @@
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.exe
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.deps.json
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.runtimeconfig.json
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.runtimeconfig.dev.json
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.dll
+D:\C# Practice\Basic Algorithms\Recursive Factorial\bin\Debug\netcoreapp3.1\Recursive Factorial.pdb
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.csprojAssemblyReference.cache
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.AssemblyInfoInputs.cache
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.AssemblyInfo.cs
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.dll
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.pdb
+D:\C# Practice\Basic Algorithms\Recursive Factorial\obj\Debug\netcoreapp3.1\Recursive Factorial.genruntimeconfig.cache

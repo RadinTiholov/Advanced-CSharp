@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Algorithms", "Basic Algorithms\Basic Algorithms.csproj", "{91149E6E-4A99-4EF1-88FB-3EB34D06B684}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive Factorial", "Recursive Factorial\Recursive Factorial.csproj", "{3D7B0903-799E-429A-BAD2-03BDCDE59D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91149E6E-4A99-4EF1-88FB-3EB34D06B684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91149E6E-4A99-4EF1-88FB-3EB34D06B684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91149E6E-4A99-4EF1-88FB-3EB34D06B684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91149E6E-4A99-4EF1-88FB-3EB34D06B684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7B0903-799E-429A-BAD2-03BDCDE59D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7B0903-799E-429A-BAD2-03BDCDE59D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7B0903-799E-429A-BAD2-03BDCDE59D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7B0903-799E-429A-BAD2-03BDCDE59D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689E5DBC-8C5B-485C-A767-B0EC35E9EEE5}
+	EndGlobalSection
+EndGlobal

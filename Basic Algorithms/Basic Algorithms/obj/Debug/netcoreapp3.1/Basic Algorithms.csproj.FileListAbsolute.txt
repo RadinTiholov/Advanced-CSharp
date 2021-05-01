@@ -1,0 +1,13 @@
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.exe
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.deps.json
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.runtimeconfig.json
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.runtimeconfig.dev.json
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.dll
+D:\C# Practice\Basic Algorithms\Basic Algorithms\bin\Debug\netcoreapp3.1\Basic Algorithms.pdb
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.csprojAssemblyReference.cache
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.AssemblyInfoInputs.cache
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.AssemblyInfo.cs
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.csproj.CoreCompileInputs.cache
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.dll
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.pdb
+D:\C# Practice\Basic Algorithms\Basic Algorithms\obj\Debug\netcoreapp3.1\Basic Algorithms.genruntimeconfig.cache
