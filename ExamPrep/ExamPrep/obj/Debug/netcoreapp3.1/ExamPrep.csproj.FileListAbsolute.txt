@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.exe
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.deps.json
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.json
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.dll
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.dll
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\SoftUni\Advanced-C#\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.genruntimeconfig.cache
