@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.exe
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.deps.json
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.dll
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\bin\Debug\netcoreapp3.1\Stacks and Queues - Lab.pdb
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.dll
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.pdb
+D:\SoftUni\Advanced-C#\Stacks and Queues - Lab\Stacks and Queues - Lab\obj\Debug\netcoreapp3.1\Stacks and Queues - Lab.genruntimeconfig.cache
