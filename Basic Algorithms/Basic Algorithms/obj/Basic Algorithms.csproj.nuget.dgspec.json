@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Practice\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj": {}
+    "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj": {}
   },
   "projects": {
-    "D:\\C# Practice\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj": {
+    "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Practice\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj",
         "projectName": "Basic Algorithms",
-        "projectPath": "D:\\C# Practice\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj",
+        "projectPath": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Basic Algorithms\\Basic Algorithms.csproj",
         "packagesPath": "C:\\Users\\radit\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Practice\\Basic Algorithms\\Basic Algorithms\\obj\\",
+        "outputPath": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Basic Algorithms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

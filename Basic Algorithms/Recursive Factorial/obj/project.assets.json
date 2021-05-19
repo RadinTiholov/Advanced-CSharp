@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Practice\\Basic Algorithms\\Recursive Factorial\\Recursive Factorial.csproj",
+      "projectUniqueName": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Recursive Factorial\\Recursive Factorial.csproj",
       "projectName": "Recursive Factorial",
-      "projectPath": "D:\\C# Practice\\Basic Algorithms\\Recursive Factorial\\Recursive Factorial.csproj",
+      "projectPath": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Recursive Factorial\\Recursive Factorial.csproj",
       "packagesPath": "C:\\Users\\radit\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Practice\\Basic Algorithms\\Recursive Factorial\\obj\\",
+      "outputPath": "D:\\SoftUni\\Advanced-C#\\Basic Algorithms\\Recursive Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
