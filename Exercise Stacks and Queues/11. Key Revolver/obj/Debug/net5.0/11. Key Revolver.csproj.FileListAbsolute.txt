@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.exe
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.deps.json
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.dll
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\ref\11. Key Revolver.dll
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\bin\Debug\net5.0\11. Key Revolver.pdb
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.dll
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\ref\11. Key Revolver.dll
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.pdb
+D:\SoftUni\Advanced-C#\Exercise Stacks and Queues\11. Key Revolver\obj\Debug\net5.0\11. Key Revolver.genruntimeconfig.cache
