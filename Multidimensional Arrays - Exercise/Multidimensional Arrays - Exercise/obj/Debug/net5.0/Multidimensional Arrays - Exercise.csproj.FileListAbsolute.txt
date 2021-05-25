@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.exe
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.deps.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\ref\Multidimensional Arrays - Exercise.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net5.0\Multidimensional Arrays - Exercise.pdb
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\ref\Multidimensional Arrays - Exercise.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.pdb
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net5.0\Multidimensional Arrays - Exercise.genruntimeconfig.cache

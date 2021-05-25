@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\ref\4. Matrix Shuffling.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+D:\SoftUni\Advanced-C#\Multidimensional Arrays - Exercise\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
