@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.exe
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.deps.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\ref\Sets and Dictionaries Advanced - Lab.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\bin\Debug\net5.0\Sets and Dictionaries Advanced - Lab.pdb
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\ref\Sets and Dictionaries Advanced - Lab.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.pdb
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\Sets and Dictionaries Advanced - Lab\obj\Debug\net5.0\Sets and Dictionaries Advanced - Lab.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.exe
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.deps.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\ref\03. Product Shop.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\net5.0\03. Product Shop.pdb
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\ref\03. Product Shop.dll
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.pdb
+D:\SoftUni\Advanced-C#\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\net5.0\03. Product Shop.genruntimeconfig.cache
