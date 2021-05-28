@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.exe
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.deps.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\ref\Problem 5. Count Symbols.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\net5.0\Problem 5. Count Symbols.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\ref\Problem 5. Count Symbols.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\net5.0\Problem 5. Count Symbols.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Problem 6. Wardrobe/1.0.0": {
+        "runtime": {
+          "Problem 6. Wardrobe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Problem 6. Wardrobe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

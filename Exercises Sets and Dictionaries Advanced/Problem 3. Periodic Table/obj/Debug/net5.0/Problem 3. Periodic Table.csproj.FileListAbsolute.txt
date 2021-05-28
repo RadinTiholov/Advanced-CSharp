@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.exe
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.deps.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\ref\Problem 3. Periodic Table.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\bin\Debug\net5.0\Problem 3. Periodic Table.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\ref\Problem 3. Periodic Table.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 3. Periodic Table\obj\Debug\net5.0\Problem 3. Periodic Table.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.exe
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.deps.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\ref\Problem 6. Wardrobe.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\bin\Debug\net5.0\Problem 6. Wardrobe.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\ref\Problem 6. Wardrobe.dll
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.pdb
+D:\SoftUni\Advanced-C#\Exercises Sets and Dictionaries Advanced\Problem 6. Wardrobe\obj\Debug\net5.0\Problem 6. Wardrobe.genruntimeconfig.cache
