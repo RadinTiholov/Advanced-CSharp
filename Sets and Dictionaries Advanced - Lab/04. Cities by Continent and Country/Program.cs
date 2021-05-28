@@ -24,7 +24,6 @@ namespace _04._Cities_by_Continent_and_Country
                {
                    dict[continent].Add(states, new List<string>());
                }
-               dict[continent][states].Add(city);
                
             }
             
