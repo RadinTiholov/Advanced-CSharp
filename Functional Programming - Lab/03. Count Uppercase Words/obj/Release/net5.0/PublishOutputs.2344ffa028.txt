@@ -1,0 +1,5 @@
+D:\Test\03. Count Uppercase Words.exe
+D:\Test\03. Count Uppercase Words.dll
+D:\Test\03. Count Uppercase Words.deps.json
+D:\Test\03. Count Uppercase Words.runtimeconfig.json
+D:\Test\03. Count Uppercase Words.pdb

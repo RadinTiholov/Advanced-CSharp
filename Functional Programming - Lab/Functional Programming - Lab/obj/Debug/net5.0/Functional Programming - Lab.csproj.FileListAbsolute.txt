@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.exe
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.deps.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\ref\Functional Programming - Lab.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\bin\Debug\net5.0\Functional Programming - Lab.pdb
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\ref\Functional Programming - Lab.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.pdb
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\Functional Programming - Lab\obj\Debug\net5.0\Functional Programming - Lab.genruntimeconfig.cache

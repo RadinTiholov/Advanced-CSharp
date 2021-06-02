@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.exe
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.deps.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\ref\4. Add VAT.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\bin\Debug\net5.0\4. Add VAT.pdb
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\ref\4. Add VAT.dll
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.pdb
+D:\SoftUni\Advanced-C#\Functional Programming - Lab\4. Add VAT\obj\Debug\net5.0\4. Add VAT.genruntimeconfig.cache
