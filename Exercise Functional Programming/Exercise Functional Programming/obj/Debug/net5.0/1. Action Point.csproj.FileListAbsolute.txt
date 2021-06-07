@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.exe
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.deps.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\ref\1. Action Point.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\bin\Debug\net5.0\1. Action Point.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\ref\1. Action Point.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\Exercise Functional Programming\obj\Debug\net5.0\1. Action Point.genruntimeconfig.cache

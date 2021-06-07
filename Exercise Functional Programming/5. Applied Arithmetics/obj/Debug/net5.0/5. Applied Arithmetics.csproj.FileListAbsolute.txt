@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.exe
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.deps.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\ref\5. Applied Arithmetics.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\bin\Debug\net5.0\5. Applied Arithmetics.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\ref\5. Applied Arithmetics.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\5. Applied Arithmetics\obj\Debug\net5.0\5. Applied Arithmetics.genruntimeconfig.cache

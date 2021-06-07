@@ -1,0 +1,16 @@
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.exe
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.deps.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\ref\7. Predicate for Names.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\bin\Debug\net5.0\7. Predicate for Names.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.csprojAssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\ref\7. Predicate for Names.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\7. Predicate for Names\obj\Debug\net5.0\7. Predicate for Names.genruntimeconfig.cache
