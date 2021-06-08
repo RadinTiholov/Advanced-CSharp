@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.exe
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.deps.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\bin\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.dll
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.pdb
+D:\SoftUni\Advanced-C#\Exercise Functional Programming\10. Predicate Party!\obj\Debug\netcoreapp3.1\10. Predicate Party!.genruntimeconfig.cache
