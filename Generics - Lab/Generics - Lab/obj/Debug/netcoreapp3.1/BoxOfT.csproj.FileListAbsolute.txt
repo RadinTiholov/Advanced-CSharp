@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\Advanced-C#\Generics - Lab\Generics - Lab\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache
