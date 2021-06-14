@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.exe
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.deps.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.runtimeconfig.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\bin\Debug\netcoreapp3.1\TupleProblem.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.genruntimeconfig.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\TupleProblem\obj\Debug\netcoreapp3.1\TupleProblem.csproj.AssemblyReference.cache

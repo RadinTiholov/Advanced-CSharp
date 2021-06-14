@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.exe
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.deps.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStrings.genruntimeconfig.cache

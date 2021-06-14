@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.exe
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.deps.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.runtimeconfig.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\bin\Debug\netcoreapp3.1\ExerciseGenerics.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.dll
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.pdb
+D:\SoftUni\Advanced-C#\ExerciseGenerics\ExerciseGenerics\obj\Debug\netcoreapp3.1\ExerciseGenerics.genruntimeconfig.cache
