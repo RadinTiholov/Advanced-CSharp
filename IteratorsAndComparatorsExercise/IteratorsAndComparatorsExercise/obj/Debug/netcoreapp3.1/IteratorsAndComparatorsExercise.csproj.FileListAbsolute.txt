@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.exe
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.deps.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.runtimeconfig.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.dll
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\bin\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.pdb
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.dll
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.pdb
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\IteratorsAndComparatorsExercise\obj\Debug\netcoreapp3.1\IteratorsAndComparatorsExercise.genruntimeconfig.cache

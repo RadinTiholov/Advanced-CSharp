@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.exe
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.deps.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.runtimeconfig.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.dll
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\bin\Debug\netcoreapp3.1\CustomStackExercise.pdb
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.dll
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.pdb
+D:\SoftUni\Advanced-C#\IteratorsAndComparatorsExercise\CustomStackExercise\obj\Debug\netcoreapp3.1\CustomStackExercise.genruntimeconfig.cache
