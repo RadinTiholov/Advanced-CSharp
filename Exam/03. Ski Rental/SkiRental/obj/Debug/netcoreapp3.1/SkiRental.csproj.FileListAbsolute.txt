@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.exe
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.deps.json
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.dll
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\bin\Debug\netcoreapp3.1\SkiRental.pdb
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.dll
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.pdb
+D:\SoftUni\Advanced-C#\Exam\03. Ski Rental\SkiRental\obj\Debug\netcoreapp3.1\SkiRental.genruntimeconfig.cache

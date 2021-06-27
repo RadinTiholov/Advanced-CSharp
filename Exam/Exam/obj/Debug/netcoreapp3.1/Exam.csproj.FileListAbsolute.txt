@@ -1,0 +1,13 @@
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+D:\SoftUni\Advanced-C#\Exam\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.AssemblyReference.cache
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+D:\SoftUni\Advanced-C#\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache
